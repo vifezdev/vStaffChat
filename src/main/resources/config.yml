@@ -1,0 +1,4 @@
+# vStaffChat config
+# Coded by vifez
+toggle_command: "sc"
+staff_chat_permission: "vstaff.chat"

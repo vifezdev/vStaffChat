@@ -1,0 +1,7 @@
+name: vStaffChat
+version: '${project.version}'
+main: lol.vifez.vstaff.vStaff
+commands:
+  sc:
+    description: toggel staff chat
+    usage: /sc
